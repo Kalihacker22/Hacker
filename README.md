@@ -10,6 +10,8 @@ https://aagamsanghavi77.wixsite.com/alpha-tech
 
 https://ai-tech.weeblysite.com/
 
+https://aitechbiz.weeblysite.com/
+
 https://www.mixo.io/site/unisign-b45f0/index.html
 
 https://www.mixo.io/site/space-scape-fupnx/index.html
