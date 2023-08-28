@@ -2,6 +2,12 @@
 
 https://spacelia.wixsite.com/spacelia
 
+https://spacelia.design.blog/
+
+https://shoutout.wix.com/so/52OeMpSeK?languageTag=en
+
+https://spacelia.wixsite.com/interstellar
+
 https://aagamsanghavi77.wixsite.com/unisign
 
 https://aagamsanghavi77.wixsite.com/my-site
