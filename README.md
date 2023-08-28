@@ -27,3 +27,7 @@ https://www.mixo.io/site/a-i-cotech-16ofr/index.html
 https://daily-absolute-062244.framer.app/
 
 https://purple-buttons-439848.framer.app/
+
+# App
+
+https://spacelia.beezer.com/
