@@ -1,6 +1,6 @@
 # Websites
 
-https://spaceter.wixsite.com/spaceter
+https://spacelia.wixsite.com/spaceter
 
 https://spaceter.tech.blog/
 
@@ -10,13 +10,23 @@ https://spacelia.design.blog/
 
 https://shoutout.wix.com/so/52OeMpSeK?languageTag=en
 
-https://spacelia.wixsite.com/interstellar
+https://spacelia.wixsite.com/spacelia-old
 
-https://aagamsanghavi77.wixsite.com/unisign
+https://colorict.wixsite.com/colorict
 
-https://aagamsanghavi77.wixsite.com/my-site
+https://colorict.wixsite.com/odecore
 
-https://aagamsanghavi77.wixsite.com/alpha-tech
+https://spacelia.wixsite.com/unisign
+
+https://spacelia.wixsite.com/my-site
+
+https://spacelia.wixsite.com/alpha-tech
+
+https://spacelia.wixsite.com/codyx
+
+https://spacelia.wixsite.com/Interstellar
+
+https://spacelia.wixsite.com/sparke
 
 https://ai-tech.weeblysite.com/
 
@@ -35,3 +45,8 @@ https://purple-buttons-439848.framer.app/
 # App
 
 https://spacelia.beezer.com/
+
+https://spaceter.beezer.com/
+
+https://planetx.beezer.com/
+
